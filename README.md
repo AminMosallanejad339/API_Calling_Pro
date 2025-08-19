@@ -6,7 +6,7 @@
 
 ### Data Engineering - API Calling Methods
 
-This repository contains my studies and practice on **API calling techniques** for Data Engineering.  
+This repository contains my studies and practice on API calling techniques for Data Engineering.  
 The goal is to understand how to integrate different API types into data pipelines and prepare them for ETL/ELT workflows.
 
 ---
@@ -117,3 +117,4 @@ data-engineering-api-calls/
 
 
 - Keep **API keys/secrets** in `.env` files and add the# Api_Calling_pro
+
