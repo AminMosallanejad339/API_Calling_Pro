@@ -1,25 +1,5 @@
-## 🔹 Repository Structure 
-
-```
-data-engineering-api-calls/
-│── README.md
-│── notebooks/
-│    ├── 01_rest_api.ipynb
-│    ├── 02_graphql_api.ipynb
-│    ├── 03_grpc_api.ipynb
-│    ├── 04_streaming_api.ipynb
-│    └── 05_async_api.ipynb
-│── scripts/
-│    ├── rest_pipeline.py
-│    ├── graphql_pipeline.py
-│    └── utils.py
-│── requirements.txt
-│── docs/
-│    ├── api_cheatsheet.md
-│    └── best_practices.md
-│── .gitignore
-```
-
+## 📷 Project Overview
+![Project Diagram](2025-08-19-155026.png)
 ------
 
 ## 🔹 README.md Template 
@@ -113,4 +93,27 @@ print(response.json())
 - Write **documentation in English** (`docs/api_cheatsheet.md` for quick notes).  
 - Use **Jupyter Notebooks for experiments** and **Python scripts for production code**.  
 - Add a **requirements.txt** or `pyproject.toml` for dependencies.  
+## 🔹 Repository Structure 
+
+```
+data-engineering-api-calls/
+│── README.md
+│── notebooks/
+│    ├── 01_rest_api.ipynb
+│    ├── 02_graphql_api.ipynb
+│    ├── 03_grpc_api.ipynb
+│    ├── 04_streaming_api.ipynb
+│    └── 05_async_api.ipynb
+│── scripts/
+│    ├── rest_pipeline.py
+│    ├── graphql_pipeline.py
+│    └── utils.py
+│── requirements.txt
+│── docs/
+│    ├── api_cheatsheet.md
+│    └── best_practices.md
+│── .gitignore
+```
+
+
 - Keep **API keys/secrets** in `.env` files and add the# Api_Calling_pro
