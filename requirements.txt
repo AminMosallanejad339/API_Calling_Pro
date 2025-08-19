@@ -1,0 +1,23 @@
+# Core libraries
+requests==2.31.0          # For REST API calls
+httpx==0.26.0             # Async API requests
+gql==3.5.0                # For GraphQL queries
+grpcio==1.60.0            # For gRPC communication
+zeep==4.2.1               # For SOAP API calls
+
+# Data manipulation
+pandas==2.2.0             # For working with tabular data
+pyarrow==15.0.0           # For efficient data formats (Parquet, Arrow)
+
+# Data engineering tools
+apache-airflow==2.9.0     # For scheduling pipelines
+prefect==2.15.0           # Alternative workflow orchestration
+kafka-python==2.0.2       # For Kafka streaming API
+
+# Jupyter environment
+jupyterlab==4.1.0         # For running notebooks
+notebook==7.1.0
+
+# Utilities
+python-dotenv==1.0.1      # For managing API keys in .env
+loguru==0.7.2             # Better logging for pipelines
