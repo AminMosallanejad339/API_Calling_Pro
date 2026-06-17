@@ -2,12 +2,7 @@
 ![Project Diagram](2025-08-19-155026.png)
 ------
 
-## 🔹 README.md Template 
-
-### Data Engineering - API Calling Methods
-
-This repository contains my studies and practice on API calling techniques for Data Engineering.  
-The goal is to understand how to integrate different API types into data pipelines and prepare them for ETL/ELT workflows.
+## 🔹 README.md 
 
 ---
 
